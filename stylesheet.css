@@ -1,0 +1,66 @@
+li {
+  list-style: none;
+  font-size: 20px;
+}
+
+input, textarea {
+  width: 400px;
+  margin: 1px 0 30px 0;
+  padding: 15px;
+  font-size: 20px;
+  border: 2px solid #dee7ec;
+}
+
+.header {
+  width: 1170px;
+  background-color:black;
+  color:white;
+}
+
+.header-logo {
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.top-wrapper {
+  height: 1000px;
+  background-image: url(https://www.tsumase.hakosoto.com/wp-content/uploads/2023/05/つまんない_大_pink-1024x1024.png);
+  background-size: cover;
+}
+
+.main {
+  width: 1170px;
+}
+
+.contents-item {
+  padding-bottom: 20px;
+
+}
+
+.contents-item p {
+  font-size: 25px;
+  margin-bottom: 2px;
+}
+
+
+.btn {
+  display: inline-block;
+  padding: 8px 24px;
+  color: white;
+  text-align: center;
+}
+
+.contact-submit {
+  display: inline-block;
+  background-color: #5dca88;
+  padding: 20px 60px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.submit input {
+  margin: 0 auto;
+  
+}
+
+/* 日時の間隔が離れすぎている　*/
